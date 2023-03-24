@@ -1,0 +1,25 @@
+h1
+{ 
+    font-size: large; 
+    color: red;
+}
+h2
+{ 
+    font-size: larger; 
+    color: rgba(0, 0, 128, 0.765);
+}
+p
+{ 
+    font-size: larger; 
+    color: rgba(255, 166, 0, 0.699);
+}
+ul
+{ 
+    font-size: larger; 
+    color: green;
+}
+div
+{ 
+    font-size: larger; 
+    color: red;
+}
